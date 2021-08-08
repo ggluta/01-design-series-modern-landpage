@@ -4,7 +4,8 @@
   "description": "",
   "main": "index.js",
   "scripts": {
-    "build-css": "tailwindcss build -i src/styles.css -o public/styles.css"
+    "build-css": "tailwindcss build -i src/styles.css -o public/styles.css",
+    "dev": "live-server public"
   },
   "author": "George Gabriel Luta",
   "license": "ISC",
