@@ -10,7 +10,10 @@
   "author": "George Gabriel Luta",
   "license": "ISC",
   "dependencies": {
+    "autoprefixer": "^10.3.1",
     "live-server": "^1.2.1",
+    "postcss": "^8.3.6",
+    "postcss-import": "^14.0.2",
     "tailwindcss": "^2.2.7"
   }
 }

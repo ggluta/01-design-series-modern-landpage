@@ -105,3 +105,8 @@ dist
 
 # IDE
 /.idea/*
+
+### Jekyll ###
+_site
+.jekyll-metadata
+.jekyll-cache/
